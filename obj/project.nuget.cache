@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VUY1Fsz9E956+Otj9j+RgHvrSXlDxYY4TAvjDeDDVg31xe5hJBL600E3MEMJ7zIz6t3buisquHiyyjx5L1LWuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\source\\repos\\LoLCumulativeStats\\LoLCumulativeStats.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
