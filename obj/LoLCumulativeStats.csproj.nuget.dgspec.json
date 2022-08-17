@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danie\\source\\repos\\LoLCumulativeStats\\LoLCumulativeStats.csproj": {}
+    "C:\\Users\\danie\\Desktop\\Git\\Pong\\LolCumulativeStats\\LoLCumulativeStats\\LoLCumulativeStats.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danie\\source\\repos\\LoLCumulativeStats\\LoLCumulativeStats.csproj": {
+    "C:\\Users\\danie\\Desktop\\Git\\Pong\\LolCumulativeStats\\LoLCumulativeStats\\LoLCumulativeStats.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danie\\source\\repos\\LoLCumulativeStats\\LoLCumulativeStats.csproj",
+        "projectUniqueName": "C:\\Users\\danie\\Desktop\\Git\\Pong\\LolCumulativeStats\\LoLCumulativeStats\\LoLCumulativeStats.csproj",
         "projectName": "LoLCumulativeStats",
-        "projectPath": "C:\\Users\\danie\\source\\repos\\LoLCumulativeStats\\LoLCumulativeStats.csproj",
+        "projectPath": "C:\\Users\\danie\\Desktop\\Git\\Pong\\LolCumulativeStats\\LoLCumulativeStats\\LoLCumulativeStats.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danie\\source\\repos\\LoLCumulativeStats\\obj\\",
+        "outputPath": "C:\\Users\\danie\\Desktop\\Git\\Pong\\LolCumulativeStats\\LoLCumulativeStats\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
