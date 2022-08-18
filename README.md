@@ -11,6 +11,7 @@ To use in OBS, open a Text source, select "Read from file" and select the text f
 
 <br>
 <h1>Files</h1>
+Files are stored in the same folder as the executable.
 <h4>OBS file location</h4>
 Kill total is stored in Kills.txt<br>
 Death total is stored in Deaths.txt<br>
