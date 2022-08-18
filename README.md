@@ -10,6 +10,7 @@ When you load the app, it will ask you for your key.
 To use in OBS, open a Text source, select "Read from file" and select the text file with the information you need.
 
 <br>
+<br>
 <h1>Files</h1>
 Files are stored in the same folder as the executable.
 <h4>OBS file location</h4>
